@@ -1,4 +1,6 @@
-/* eslint-disable no-undef */
+/* global
+clearBootboxButtonClickEvent:false, StudentCommon:false, ensureCorrectModal:false, Const:false, clearBootboxModalStub:false
+*/
 
 QUnit.module('student.js');
 
